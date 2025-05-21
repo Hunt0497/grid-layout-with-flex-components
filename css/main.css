@@ -29,13 +29,11 @@ body {
     color: white;
     padding: 1rem;
     border-radius: 8px;
-    /* margin-top: auto; */
   }
 
   .emoji p {
     font-size: 1.2rem;
     flex-grow: 1;
-
   } 
   
   .icon {
